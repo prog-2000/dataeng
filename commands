@@ -1,0 +1,6 @@
+source myenv/bin/activate
+
+cd /home/ubuntu/data/dataeng/archive
+
+connect to mysql command:
+mysql -h database-1.c76qaa2gaduy.eu-north-1.rds.amazonaws.com -u admin -p
